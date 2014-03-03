@@ -8,10 +8,7 @@ bugfix-101 v2
 bugfix-102 v1
 ============
 bugfix-102 v2
-<<<<<<< HEAD
-=======
 ============
 bugfix-102 v3
 ============
 bugfix-103 v4
->>>>>>> bugfix-102
